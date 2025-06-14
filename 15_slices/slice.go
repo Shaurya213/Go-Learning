@@ -12,7 +12,7 @@ func main() {
 
 	var nums = make([]int, 2, 5)
 	fmt.Println(nums)
-	for i := len(nums) + 1; i <= 5; i++ {
+	for i := len(nums) + 1; i <= 4; i++ {
 		nums = append(nums, i)
 	}
 	fmt.Println(nums)
