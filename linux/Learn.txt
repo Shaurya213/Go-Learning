@@ -1,0 +1,77 @@
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ mkdir linux
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ ls
+1_helloworld/  15_slices/        6_if_else/
+10_slice/      16_pointers/      7_switch_case/   
+11_copy/       2_simple_values/  8_array/
+12_map/        3_variables/      9_new_learning/  
+13_hw/         4_constants/      linux/
+14_struct/     5_for/
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ cd linux
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ echo "Hello I am Linux command learner" > Learn.
+txt
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ cat Hello.txt
+cat: Hello.txt: No such file or directory
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ cat Hello
+cat: Hello: No such file or directory
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ ls
+Learn.txt
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ cat Learn.txt
+Hello I am Linux command learner
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ cd ..
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ rm -rf Learn.txt
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ ls
+1_helloworld/  15_slices/        6_if_else/
+10_slice/      16_pointers/      7_switch_case/   
+11_copy/       2_simple_values/  8_array/
+12_map/        3_variables/      9_new_learning/  
+13_hw/         4_constants/      linux/
+14_struct/     5_for/
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ ls 
+1_helloworld/  15_slices/        6_if_else/
+10_slice/      16_pointers/      7_switch_case/   
+11_copy/       2_simple_values/  8_array/
+12_map/        3_variables/      9_new_learning/  
+13_hw/         4_constants/      linux/
+14_struct/     5_for/
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ cd linux
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ ls
+Learn.txt
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ rm -rf Learn.txt
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld/linux (main)
+$ cd ..
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$ rm -rf linux
+
+shaur@LAPTOP-MT84KFH4 MINGW64 ~/Desktop/GoHelloWorld (main)
+$
